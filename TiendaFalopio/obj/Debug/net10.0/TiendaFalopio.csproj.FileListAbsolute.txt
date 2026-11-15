@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\TiendaFalopio\bin\Debug\net10.0\TiendaFalopio.exe
+C:\Users\pc\source\repos\TiendaFalopio\bin\Debug\net10.0\TiendaFalopio.deps.json
+C:\Users\pc\source\repos\TiendaFalopio\bin\Debug\net10.0\TiendaFalopio.runtimeconfig.json
+C:\Users\pc\source\repos\TiendaFalopio\bin\Debug\net10.0\TiendaFalopio.dll
+C:\Users\pc\source\repos\TiendaFalopio\bin\Debug\net10.0\TiendaFalopio.pdb
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFalopio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFalopio.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFalopio.AssemblyInfo.cs
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFalopio.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFalopio.dll
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\refint\TiendaFalopio.dll
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFalopio.pdb
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFalopio.genruntimeconfig.cache
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\ref\TiendaFalopio.dll
+C:\Users\pc\source\repos\TiendaFalopio\obj\Debug\net10.0\TiendaFa.AE3B7DB4.Up2Date
